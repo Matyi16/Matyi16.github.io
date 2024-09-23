@@ -34,3 +34,10 @@ Dupla enter választja el őket.
 |-------|-------|
 |Cella 1|Cella2 |
 | Sor 1 | Sor 2 |
+
+## Inline (szövegformálás)
+*dőlt*
+**Félkövér**
+~~Nem kihuzás~~
+[nem link eskü](https://umszki.hu)
+![kép szövege](.png)
