@@ -1,3 +1,16 @@
 .card{
     margin: auto;
 }
+#banner{
+    display: block;
+    margin: auto;
+    padding: 70px;
+}
+body{
+    background-image: url(https://st.depositphotos.com/3008028/4294/i/450/depositphotos_42948809-Frost-white-background-black-light-vintage-grunge-background.jpg);
+    background-size: cover;
+}
+#1{
+    display: block;
+
+}
